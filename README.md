@@ -4,7 +4,7 @@
 
 Projeto para ingestão de dados em Python.
 
-__________________________________________________
+
 # Solução
 
 ![alt text](https://github.com/hermes-augusto/Data_engineer_test/blob/main/_exp.jpeg)
